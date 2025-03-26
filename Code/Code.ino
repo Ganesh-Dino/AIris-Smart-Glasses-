@@ -193,7 +193,7 @@ void loop() {
         //----------------------------------------------------
         if (filteredAnswer != "")  // we found spoken text .. now starting Demo examples:
         {      
-          Serial.print("OpenAI speaking: ");
+          Serial.print("Gemini speaking: ");
           Serial.println(filteredAnswer);
 
           displayText(filteredAnswer);
