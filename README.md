@@ -1,2 +1,2 @@
 # AIris-Smart-Glasses-Solution-Challenge
-AI based smart glasses which take voice input and displays output on the lens. Immediate response, easy to use and affordable .
+AIris is an AI-powered smart glasses project designed to enhance learning through instant, distraction-free AI responses. Unlike traditional AR glasses, AIris displays information in a see-through manner, similar to Iron Man's EDITH glasses. It eliminates the need to check phones for answers, reducing distractions from social media and ads.The demo video has been uploaded, showcasing the live demo of our first prototype and future enhancement plans.
